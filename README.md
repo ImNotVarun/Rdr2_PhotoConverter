@@ -1,10 +1,10 @@
-# Rdr2_Photoconvertor
+# Rdr2_PhotoConverter
 
 ## 💎 Overview
 
-#### The RDR2 Photo Converter is a tool that converts screenshots taken from the inbuilt Photo mode to .jpg Format.
+#### - The RDR2 Photo Converter is a tool that converts screenshots taken from the inbuilt Photo mode to .jpg Format.
 
-#### After Converting you have to manual go to websites that converts jpg files to png or jpeg
+#### - After Converting you have to manual go to websites that converts jpg files to png or jpeg
 
 ## ⚒️ Installation
 - Download the [A_Execute](https://github.com/ImNotVarun/Rdr2_Photoconvertor/blob/main/A_Execute.bat)
